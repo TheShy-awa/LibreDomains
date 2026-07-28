@@ -1,16 +1,17 @@
 {
-    "domain": "ciao.su", 
-    "subdomain": "theshy",
-    "owner": {
-        "username": "TheShy-awa"
-    },
-    "records": [
-        {
-            "type": "AAAA",
-            "name": "theshy",
-            "content": "240e:3b3:96b5:cf00:266:19ff:fe26:6ec5",
-            "ttl": 3600
-        }
-    ],
-    "description": "TheShy的个人博客"
+  "description": "TheShy的个人博客",
+  "owner": {
+    "name": "TheShy",
+    "github": "TheShy-awa",
+    "email": "3781102822@qq.com"
+  },
+  "records": [
+    {
+      "type": "AAAA",
+      "name": "@",
+      "content": "240e:3b3:96b5:cf00:266:19ff:fe26:6ec5",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
 }
