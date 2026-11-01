@@ -1,1 +1,17 @@
-
+{
+  "description": "TheShy的个人博客（IPV4）",
+  "owner": {
+    "name": "TheShy",
+    "github": "TheShy-awa",
+    "email": "3781102822@qq.com"
+  },
+  "records": [
+    {
+      "type": "A",
+      "name": "@",
+      "content": "194.147.16.88",
+      "ttl": 3600,
+      "proxied": false
+    }
+  ]
+}
